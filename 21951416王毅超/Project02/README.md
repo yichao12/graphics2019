@@ -1,4 +1,4 @@
-project1
+project2
 ================
 ## introduction
 the project use three.js based on webGL
