@@ -45,4 +45,4 @@ The effect can be seen in the GIF below:
 
 Also the picture:
 
-![微信图片_20200118133353](textures\微信图片_20200118133353.png)
+![effect](textures\effect.png)
